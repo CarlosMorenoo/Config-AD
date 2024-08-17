@@ -20,7 +20,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Install AD in Domain Controller through VM
-- Step 2
+- Create Organizational Units within AD
+- Create Admins withing Organizational Unit
 - Step 3
 - Step 4
 
